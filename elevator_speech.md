@@ -18,7 +18,17 @@ Examples:
 "Imagine never waiting in line for tickets or snacks again and enjoying movies with friends effortlessly. Our platform makes it possible!"
 "With our website, you can book tickets, organize movie nights with friends, and even have snacks waiting for you—all in one place."
 
+Format: For ... (Target user group)
+They want ... (Pain point)
+This ... (Product name)
+Is a ... (Product features)
+It can ... (Irresistible advantages)
+ Different from ... (Other competing 
+products)
+ Our product ... (Core differentiated 
+competitiveness)
+
 GPT 4 response:
 Elevator Pitch Script:
 
-"Imagine never waiting in line for tickets or snacks again and turning every movie night into a seamless social experience. Meet MovieDog—the ultimate movie reservation platform for busy moviegoers. With MovieDog, you can book tickets in seconds, pre-order your favorite snacks, and even create groups to invite friends or find companions to share the experience. We’re not just about convenience—we’re about making movies more fun, social, and effortless. Join us in redefining the way people enjoy the big screen. Ready to roll with MovieDog?"
+"For busy moviegoers who value convenience and love sharing the movie experience, long lines and coordinating plans can be a hassle. That’s where MovieDog comes in—a seamless platform to book tickets, create groups to invite friends or find companions, and even pre-order snacks so they’re waiting for you when you arrive. It’s like having a personal concierge for your movie nights. Unlike other apps, MovieDog is built to make movies more social—enhancing both convenience and connection. With MovieDog, you don’t just watch movies; you experience them together effortlessly."
