@@ -12,6 +12,7 @@ Add a tagline that teases the story or theme, e.g., "In a world of chaos, one he
 Use visuals that reflect the movie’s core themes (e.g., futuristic cityscapes for sci-fi, romantic sunsets for romance, or shadowy figures for thrillers).
 Include a release date and credits at the bottom in standard movie poster format.
 Use cinematic colors and lighting that evoke emotion (e.g., neon lights for sci-fi, warm hues for romance, dark tones for thrillers).
+
 Examples:
 
 A sci-fi movie poster featuring a lone astronaut gazing at a distant, glowing planet with the tagline: "Beyond the Stars Lies Our Destiny."
